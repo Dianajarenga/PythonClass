@@ -1,4 +1,4 @@
-class Dod:
+class Dog:
     def __init__(self,age,breed,name):
         self.age=age
         self.breed=breed
